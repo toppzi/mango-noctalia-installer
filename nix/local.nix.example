@@ -1,0 +1,24 @@
+# install.sh writes the real local.nix. This file only shows the shape.
+{
+  username = "alice";
+  fullName = "Alice";
+  hostname = "mango";
+  system = "x86_64-linux";
+  timezone = "Europe/Stockholm";
+  locale = "en_US.UTF-8";
+  keyboard = "us";
+  keyboardVariant = "";
+  stateVersion = "25.11";
+  bootloader = "systemd-boot"; # systemd-boot | grub-efi | grub-bios
+  grubDevice = "/dev/sda";
+  uid = 1000;
+  gid = 100;
+  group = "users";
+  hashedPassword = null; # null keeps the password already stored for an existing user
+  autologin = false;
+  boosteroid = false;
+  nvidia = false;
+  openssh = false;
+  extraGroups = [ "wheel" "networkmanager" "video" "audio" "input" "render" "gamemode" ];
+  mountPoints = [ ];
+}

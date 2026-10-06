@@ -1,0 +1,70 @@
+MangoWM + Noctalia
+Super is the Windows / Meta key.
+
+SHELL
+  Super + Space          App launcher
+  Super + S              Control center
+  Super + Comma          Noctalia settings
+  Super + V              Clipboard history
+  Super + W              Wallpaper picker
+  Super + Shift + W      Random wallpaper
+  Super + Escape         Session menu (log out, reboot, shut down)
+  Super + Alt + L        Lock
+  Super + F1             This cheatsheet
+  Alt + Tab              Window switcher
+  Print                  Screenshot a region
+  Super + Print          Screenshot the screen
+
+APPS
+  Super + Return         Kitty
+  Super + E              Thunar
+  Super + B              Helium
+  Super + C              Cursor
+  Super + D              Vesktop
+  Super + G              Steam
+  Super + Shift + B      Boosteroid
+
+WINDOWS
+  Super + Q              Close window
+  Super + F              Fullscreen
+  Super + Shift + F      Fake fullscreen
+  Super + T              Float / tile
+  Super + M              Maximize
+  Super + I              Minimize
+  Super + Shift + I      Restore minimized
+  Super + O              Overlay
+  Super + Z              Scratchpad
+  Super + H / J / K / L  Focus left / down / up / right
+  Super + Shift + H/J/K/L
+                         Swap the focused window that way
+  Alt + Arrow keys       Focus in that direction
+  Super + mouse drag     Move a window
+  Super + right drag     Resize a window
+
+WORKSPACES
+  Super + 1 … 9          Switch to that workspace
+  Super + Shift + 1 … 9  Move the window there
+  Super + Left / Right   Previous / next workspace
+  Super + Shift + Left / Right
+                         Move the window to the previous / next workspace
+  Super + Up             Overview
+  Ctrl + Left / Right    Previous / next workspace that has a window
+
+LAYOUT
+  Super + N              Switch layout
+  Super + R              Reload Mango config
+  Super + Shift + Q      Quit Mango
+  Alt + E                Reset scroller proportion
+  Alt + X                Cycle scroller proportion
+  Alt + Shift + X / Z    Grow / shrink gaps
+  Alt + Shift + R        Toggle gaps
+  Ctrl + Alt + Arrows    Resize the focused window
+
+MEDIA
+  Volume and brightness keys control Noctalia.
+  Super + P              Play / pause
+  Super + Shift + N      Next track
+  Super + Shift + P      Previous track
+
+Trackpad: 3 fingers move focus. 4 fingers left/right change workspace.
+4 fingers up/down enter and leave the overview.
